@@ -3,11 +3,11 @@
     <EditTextPreference
         key="card_number"
         summary="||{@s}"
-        title="Номер телефона или штрих-код карты"
-        dialogTitle="Номер телефона или штрих-код карты"
+        title="Логин от интернет-банка"
+        dialogTitle="Логин от интернет-банка"
         negativeButtonText="Отмена"
         positiveButtonText="ОК"
-        inputType="number"
+        inputType="text"
         obligatory="true"
     >
     </EditTextPreference>
