@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <provider>
-    <id>beeline</id>
+    <id>Морской банк</id>
     <version>3.0</version>
     <build>11</build>
-    <company>15449</company>
+    <company>4383</company>
     <modular>true</modular>
     <codeRequired>false</codeRequired>
     <files>
